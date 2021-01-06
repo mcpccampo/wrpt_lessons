@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "title" : "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "cover": "https://m.media-amazon.com/images/I/516IbJ592JL.jpg"
+    },
+    {
+        "id": 2,
+        "title" : "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "year": 1968,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY475_.jpg"
+    },
+    {
+        "id": 3,
+        "title" : "Bossypants",
+        "author": "Tina Fey",
+        "year": 2011,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481509554l/9418327.jpg",
+        "genre": "autobiography"
+    },
+    {
+        "id": 4,
+        "title" : "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351643740l/4381.jpg"
+    },
+    {
+        "id": 5,
+        "title" : "Ender's Game",
+        "author": "Orson Scott Card",
+        "year": 1985,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802.jpg"
+    },
+    {
+        "id": 6,
+        "title" : "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY475_.jpg"
+    },
+    {
+        "id": 7,
+        "title" : "Version Control",
+        "author": "Dexter Palmer",
+        "year": 2016,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439837238l/25733442.jpg"
+    },
+    {
+        "id": 8,
+        "title" : "Home: A Memoir of My Early Years",
+        "author": "Julie Andrews Edwards",
+        "year": 2008,
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348381669l/2511690.jpg",
+        "genre": "autobiography"
+    }
+]
