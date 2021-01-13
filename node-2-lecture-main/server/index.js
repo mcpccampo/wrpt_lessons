@@ -10,7 +10,7 @@ const PORT = 3050;
 const app = express();
 app.use(express.json());
 
-// API Routes
+// API enpoint
 app.get('/api/users', userCtr.getUsers);
 app.get('/api/users/:id', userCtr.getUser);
 app.post('/api/users', userCtr.addUser);

@@ -37,7 +37,7 @@ module.exports = {
   },
 
   addUser: (req, res) => {
-    console.log('~> Reached AddUser Endpoint...');
+    console.log('~> Reached AddUser Endpoint..');
     console.log('request body', req.body);
 
     let { name, email } = req.body;
